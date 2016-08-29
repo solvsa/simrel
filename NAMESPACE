@@ -1,0 +1,5 @@
+useDynLib(simrel)
+importFrom(FrF2,FrF2)
+importFrom(sfsmisc,polyn.eval)
+export(simrel, simrelplot, mbrd, mbrdsim)
+
